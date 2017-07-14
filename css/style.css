@@ -465,6 +465,10 @@ section {
 
     }
 
+    nav a:hover {
+     color:orange;
+    }
+
     ul {
     list-style-type: none; 
     padding:0;
@@ -670,6 +674,10 @@ section {
     nav {
     flex:0 1 30%;
 
+    }
+
+    nav a:hover {
+     color:orange;
     }
 
     ul {
@@ -936,6 +944,10 @@ section {
 
     }
 
+    nav a:hover {
+     color:orange;
+    }
+
     ul {
     list-style-type: none; 
     padding:0;
@@ -1193,6 +1205,10 @@ section {
     nav {
     flex:0 1 30%;
 
+    }
+
+    nav a:hover {
+     color:orange;
     }
 
     ul {
